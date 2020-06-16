@@ -20,7 +20,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Spring -->
-        <spring-framework.version>5.1.4.RELEASE</spring-framework.version>
+        <spring-framework.version>5.2.7.RELEASE</spring-framework.version>
         <spring-data-jdbc.version>2.0.0.M1</spring-data-jdbc.version>
 
         <!-- Web dependencies -->
@@ -41,7 +41,7 @@
         <!-- Persistence -->
         <spring-data-releasetrain.version>Lovelace-RELEASE</spring-data-releasetrain.version>
         <hibernate.version>5.4.1.Final</hibernate.version>
-        <hibernate-validator.version>6.0.14.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.1.0.Final</hibernate-validator.version>
         <hsqldb.version>2.4.1</hsqldb.version>
 
         <!-- Logging -->
