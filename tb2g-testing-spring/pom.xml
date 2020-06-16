@@ -448,8 +448,16 @@
         <repository>
             <id>repository.spring.milestone</id>
             <name>Spring Milestone Repository</name>
-            <url>http://repo.spring.io/milestone</url>
+            <url>https://repo.spring.io/milestone</url>
         </repository>
+
+        <!--
+        <repository>
+            <id>spring.repo</id>
+            <name>Spring Repository</name>
+            <url>https://repo.spring.io/plugins-release</url>
+        </repository>
+        -->
     </repositories>
 
 </project>
