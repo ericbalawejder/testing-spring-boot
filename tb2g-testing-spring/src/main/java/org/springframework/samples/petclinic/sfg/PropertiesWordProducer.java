@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 @Component
-@Profile("externalized")
+@Profile({"externalized", "laurel-properties"})
 @Primary
 public class PropertiesWordProducer implements WordProducer {
 
